@@ -1,2 +1,2 @@
-# Subtitles
- Adds subtitles to many of the voice lines in VTOL VR
+# AI Subtitles
+ Adds subtitles to many of the AI voice lines in VTOL VR
